@@ -1,0 +1,9 @@
+streamlit
+pandas 
+matplotlib
+seaborn
+contextily
+geopandas
+shapely
+scikit-learn
+numpy
